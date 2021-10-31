@@ -12,4 +12,4 @@ This repository contains a simple Java application simulate a funny game.
 1. [Github] (https://github.com/Lethao-292)
 2. [Facebook] (https://www.facebook.com/nguyenlephuong.thao.334)
 
-#### © 20212 by Tina
+#### Â© 2021 by Tina
